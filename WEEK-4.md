@@ -3,7 +3,7 @@
 ### P03-01 Simple If
 <img width="471" height="134" alt="image" src="https://github.com/user-attachments/assets/f0737967-29ae-47b6-a208-6e0142f40924" />
 
-P03-02 If-Else
+ P03-02 If-Else
 <img width="471" height="174" alt="image" src="https://github.com/user-attachments/assets/73e7b8e6-ca82-47d6-8b2d-c74c35af505a" />
 
 P03-03 Odd/Even
