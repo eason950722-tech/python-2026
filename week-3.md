@@ -19,8 +19,7 @@ Q02-09 Short-circuit
 <img width="819" height="232" alt="image" src="https://github.com/user-attachments/assets/9bc875cc-b364-490f-84af-a49b79cb53a8" />
 Q02-10 Cashier Bool
 <img width="876" height="112" alt="image" src="https://github.com/user-attachments/assets/8d51dae4-dbab-4a77-8640-38ddbb072abb" />
-P02-11 to P02-13 Comparison
-<imP02-11 to P02-13 Comparisong width="822" height="216" alt="image" src="https://github.com/user-attachments/assets/0aa9b434-2391-4c02-9e84-1ece3440f273" />
+
 
 
 
