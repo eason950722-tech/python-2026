@@ -1,7 +1,7 @@
 # week-3
-
-<img width="945" height="910" alt="image" src="https://github.com/user-attachments/assets/00c636d6-94a2-4ad7-b717-4c48bee5ab83" />
 Q02-01 Odd/Even
+<img width="945" height="910" alt="image" src="https://github.com/user-attachments/assets/00c636d6-94a2-4ad7-b717-4c48bee5ab83" />
+
 <img width="827" height="139" alt="image" src="https://github.com/user-attachments/assets/ef8aed54-2c36-49db-b63d-5989739f8f7c" />
 
 Q02-02 F to C
